@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwMD+3nlLbMyAF9TSd66n5NlyTpS9s7MBqoXrQW/eqxCbzgdOoeucM+o/zWdq8il3UGSltiIGyMKuBwhCUW8wQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\JobTimer\\MMO_Server\\ServerCore\\ServerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pjh21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
